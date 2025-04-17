@@ -25,16 +25,6 @@
 [![Other](https://skillicons.dev/icons?i=html,css,mysql,postgres,mongodb)](https://skillicons.dev)
 
 
-## 🚀 Featured Projects
-
-- [**GOquest**](https://github.com/BrunoPoiano/goquest) – A CLI tool for designing and testing REST, WebSocket, and HTTP protocols.
-- [**ASCII Image Generator**](https://github.com/BrunoPoiano/ascii-image-generator) – Convert images to ASCII art via a sleek web interface.
-- [**Docker-TUI**](https://github.com/BrunoPoiano/docker-tui) – A terminal UI for managing Docker containers.
-- [**imgeffects**](https://github.com/BrunoPoiano/imgeffects) – A collection of image effects algorithms written in Go with parallel processing support 
-- [**qbit-relocater**](https://github.com/BrunoPoiano/qbit-relocater) – A script that connects with sonarr, radarr and qBittorrent and redirects torrents to the right folder.
-- [**ollama-webui**](https://github.com/BrunoPoiano/ollama-webui) – WebUi to interact with Local LLM ollama.
-- [**screen-recorder**](https://github.com/BrunoPoiano/screen-recorder) – Simple screen recorder app with React and Electron . 
-
 ## 📫 Get in Touch 
 
 - [LinkedIn](https://www.linkedin.com/in/brunopoiano/)
