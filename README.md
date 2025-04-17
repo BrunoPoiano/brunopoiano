@@ -30,4 +30,4 @@
 - [LinkedIn](https://www.linkedin.com/in/brunopoiano/)
 
 ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoPoiano&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoPoiano&theme=nord&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
